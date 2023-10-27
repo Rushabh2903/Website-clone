@@ -1,0 +1,21 @@
+.btn-primary {
+    background: transparent;
+    border: 1px solid hsla(0,0%,100%,0.1607843137254902);
+    border-radius: 0.4rem;
+    color: white;
+}
+
+.btn-primary:hover {
+    background: hsla(0,0%,100%,0.1607843137254902);
+}
+  
+.btn-primary:active {
+    background: rgba(129,140,239,0.2);
+}
+
+.btn-label{
+    font-weight: 400;
+    font-size: 1.4rem;
+    margin-left: 0.8rem;
+    letter-spacing: 0;
+}

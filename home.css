@@ -1,0 +1,19 @@
+.Home {
+    min-height: 100vh;
+    padding-bottom: 24.65rem;   
+}
+
+.Home-top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding-top: 6.2rem;
+    position: relative;
+    padding-bottom: 6.4rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    margin-top: -6.2rem;
+    
+}
